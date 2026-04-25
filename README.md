@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Bipin Singh 👋
 
-<!--
-**bipinsingh2004/bipinsingh2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MBA Student — Business Analytics | Final Semester  
+📍 Bhopal, India  
+💼 Aspiring Business Analyst | Data Analyst
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I turn raw business data into clear, actionable insights.
+Currently in my final semester of MBA (Business Analytics),
+with hands-on experience in Power BI, Excel, SQL, Tableau
+
+---
+
+## 🛠 Tools & Skills
+- **Visualization:** Power BI, Excel
+- **Data:** SQL, Excel, Power Query
+- **Concepts:** Business Analytics, DAX, KPI Dashboards
+
+---
+
+## 📊 Featured Projects
+| Project | Tools | Description |
+|---------|-------|-------------|
+| [Mobile Sales Dashboard](https://github.com/bipinsingh2004/Mobile_sales_Analysis) | Power BI | 3,835 transactions across 5 brands in India |
+| [HR Analytics Dashboard](https://github.com/bipinsingh2004/HR_Analytics_PowerBI_dashboard) | Power BI | Employee attrition & salary trend analysis |
+| [Hospital Emergency Room](https://github.com/bipinsingh2004/Hospital_Emergency_Room_Dashboard) | Power BI | ER wait time & patient flow insights |
+| [Coffee Shop Sales](https://github.com/bipinsingh2004/Coffee-shop-sales) | Power BI | Sales trend & product performance analysis |
+
+---
+
+## 📬 Connect With Me
+Linkdin : https://www.linkedin.com/in/bipin-singh-baghel-740862341
+📧 bipinsingh1509gmail.com
