@@ -6,30 +6,28 @@
 
 ---
 
-## 🧠 About Me
-I turn raw business data into clear, actionable insights.
-Currently in my final semester of MBA (Business Analytics),
-with hands-on experience in Power BI, Excel, SQL, Tableau
+## 🛠️ Tools & Skills
+- Power BI | DAX | Power Query
+- Microsoft Excel
+- SQL (Basic)
+- Data Visualization | Dashboard Design
 
 ---
 
-## 🛠 Tools & Skills
-- **Visualization:** Power BI, Excel
-- **Data:** SQL, Excel, Power Query
-- **Concepts:** Business Analytics, DAX, KPI Dashboards
+## 📂 My Projects
+
+| Project | Description |
+|---|---|
+| [RideEase Transport Analytics](https://github.com/bipinsingh2004/RideEase-Transport-Analytics) | Ride-hailing dashboard across 8 Indian cities · 5000 trips |
+| [HR Analytics Dashboard](https://github.com/bipinsingh2004/HR_Analytics_PowerBI_dashboard) | Employee attrition, salary trends & workforce insights |
+| [Samsung Supply Chain Logistics](https://github.com/bipinsingh2004/Samsung-Supply-Chain-Logistics-Dashboard) | Supply chain & logistics performance dashboard |
+| [Mobile Sales Analysis](https://github.com/bipinsingh2004/Mobile_sales_Analysis) | 3,835 transactions across 5 brands & 30+ cities in India |
+| [Hospital Emergency Room](https://github.com/bipinsingh2004/Hospital_Emergency_Room_Dashboard) | ER operations & patient flow analysis |
+| [Ferns & Petals Sales Analysis](https://github.com/bipinsingh2004/-Ferns-and-Petals-Sales-Analysis) | E-commerce gifting sales performance dashboard |
+| [Coffee Shop Sales](https://github.com/bipinsingh2004/Coffee-shop-sales) | Revenue & footfall analysis for a coffee chain |
 
 ---
 
-## 📊 Featured Projects
-| Project | Tools | Description |
-|---------|-------|-------------|
-| [Mobile Sales Dashboard](https://github.com/bipinsingh2004/Mobile_sales_Analysis) | Power BI | 3,835 transactions across 5 brands in India |
-| [HR Analytics Dashboard](https://github.com/bipinsingh2004/HR_Analytics_PowerBI_dashboard) | Power BI | Employee attrition & salary trend analysis |
-| [Hospital Emergency Room](https://github.com/bipinsingh2004/Hospital_Emergency_Room_Dashboard) | Power BI | ER wait time & patient flow insights |
-| [Coffee Shop Sales](https://github.com/bipinsingh2004/Coffee-shop-sales) | Power BI | Sales trend & product performance analysis |
-
----
-
-## 📬 Connect With Me
-Linkdin : https://www.linkedin.com/in/bipin-singh-baghel-740862341
-📧 bipinsingh1509gmail.com
+## 📫 Connect with me
+- 🔗 LinkedIn: https://www.linkedin.com/in/bipin-singh-baghel-740862341
+- 📧 Email: bipinsingh1509@gmail.com
