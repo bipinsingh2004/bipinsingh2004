@@ -1,6 +1,6 @@
 # Hi, I'm Bipin Singh 👋
 
-🎓 MBA Student — Business Analytics | Final Semester  
+🎓 MBA — Business Analytics |   
 📍 Bhopal, India  
 💼 Aspiring Business Analyst | Data Analyst
 
@@ -25,6 +25,7 @@
 | [Hospital Emergency Room](https://github.com/bipinsingh2004/Hospital_Emergency_Room_Dashboard) | ER operations & patient flow analysis |
 | [Ferns & Petals Sales Analysis](https://github.com/bipinsingh2004/-Ferns-and-Petals-Sales-Analysis) | E-commerce gifting sales performance dashboard |
 | [Coffee Shop Sales](https://github.com/bipinsingh2004/Coffee-shop-sales) | Revenue & footfall analysis for a coffee chain |
+| [Sales Performance & Customer Insights Dashboard](https://github.com/bipinsingh2004/sales-performance-dashboard) | Power BI dashboard analyzing sales, customer & product performance across 5 regions · 5,200+ orders |
 
 ---
 
